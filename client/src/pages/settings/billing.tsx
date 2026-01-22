@@ -18,12 +18,12 @@ const Billing = () => {
           <h1 className="text-lg font-medium mb-2">Support Us</h1>
           <p className="text-base mb-2">
             The Billing feature is part of the <strong>extended version</strong>{" "}
-            of this project. It took <strong>weeks and months</strong> to
+            of this project. It will take some <strong>weeks and months</strong> to
             design, build, and refine.
           </p>
 
           <p className="text-base mb-2">
-            By supporting us, you’ll unlock premium billing features including:
+            I have a idea to make premium billing features including:
           </p>
 
           <ul className="list-disc pl-5 text-base mb-2">
@@ -50,10 +50,6 @@ const Billing = () => {
             </li>
           </ul>
 
-          <p className="text-base mb-2">
-            Your support helps us keep building free, high-quality projects for
-            the community.
-          </p>
 
           <p className="text-base font-medium">
             🔓 <span className="text-green-600">Under Developing</span>
